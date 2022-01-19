@@ -6,7 +6,7 @@
 
 <p id="demo">JavaScript pode ocutar elementos.</p>
 
-<button type="button" onclick="document.getElementById('demo').style.display='none'">Clique!</button>
-
+<button type="button" onclick="document.getElementById('demo').style.display='none'">Esconder texto</button>
+<button type="button" onclick="document.getElementById('demo').style.display='block'">Mostrar texto</button>
 </body>
 </html> 
